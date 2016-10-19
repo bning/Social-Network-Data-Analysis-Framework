@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-async/4.0.2/45779119b04badf49be48257d0a72a24a36a1710/twitter4j-async-4.0.2-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-async/4.0.2/bcd25b8f3e6ec54a947fcde5eca72ab0c9fc1389/twitter4j-async-4.0.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/3f60b832b27bf85a46c18ec57385d3902a3d0c93/twitter4j-core-4.0.2-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/6555e7c45f5db0006823731b2ddb536d481e11d1/twitter4j-core-4.0.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.jfree/jfreechart/1.0.19/5aae69aa497ce4ea82b59317102a09c5abc91ba1/jfreechart-1.0.19-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.jfree/jfreechart/1.0.19/ba9ee7dbb2e4c57a6901c79f614ed2dea9cc0e20/jfreechart-1.0.19.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.jfree/jcommon/1.0.23/76c1fec968d3f6e55cf9bea2855ad33d085a6b6/jcommon-1.0.23-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.jfree/jcommon/1.0.23/a316f336ca996e0c6bec4e4fbd49be8f5e1c3968/jcommon-1.0.23.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/angela/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/angela/Desktop/hw5b/libs/egit-core-3.3.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/angela/Desktop/hw5b/libs/facebook4j-core-2.2.2.jar" exported="true"/>
+</classpath>
